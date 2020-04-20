@@ -1,0 +1,8 @@
+{
+  "name": "MAP",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
